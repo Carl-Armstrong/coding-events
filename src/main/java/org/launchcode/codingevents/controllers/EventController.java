@@ -37,5 +37,4 @@ public class EventController {
         events.add(eventName);
         return "redirect:";
     }
-
 }
